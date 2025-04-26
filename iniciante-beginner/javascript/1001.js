@@ -7,12 +7,12 @@
  *
  */
 
-//Lendo entradas
+//Ler entradas
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
 var lines = input.split("\n");
 
-//Declarando variáveis
+//Declara variáveis
 var a = parseInt(lines.shift());
 var b = parseInt(lines.shift());
 
-console.log("X = " + (a + b)); //Imprimindo soma
+console.log("X = " + (a + b)); //Imprime soma

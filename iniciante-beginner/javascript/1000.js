@@ -7,8 +7,8 @@
  *
  */
 
-//Entrada - padrão do beecrowd em Javascript, não necessária para esse problema.
+//Entrada - padrão do beecrowd para Javascript, não necessária para esse problema.
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
 var lines = input.split("\n");
 
-console.log("Hello World!"); //Saída pedida
+console.log("Hello World!"); //Imprime Hello World!
