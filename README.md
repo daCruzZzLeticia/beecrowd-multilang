@@ -4,6 +4,22 @@ Este repositório contém minhas soluções para os problemas do Beecrowd, utili
 
 This repository contains my solutions to Beecrowd problems using various programming languages to explore and practice problem-solving.
 
+## Problemas Resolvidos/Solved Problems
+
+**Javascript**
+
+-   [1000 - Hello World!](iniciante-beginner/javascript/1000.js)
+-   [1001 - Extremely Basic](iniciante-beginner/javascript/1001.js)
+
+</br>
+
+**Python**
+
+-   [1000 - Hello World!](iniciante-beginner/python/1000.py)
+-   [1001 - Extremely Basic](iniciante-beginner/python/1001.py)
+-   [1002 - Area of a Circle](iniciante-beginner/python/1002.py)
+-   [1003 - Simple Sum](iniciante-beginner/python/1003.py)
+
 ## Estrutura/Structure
 
 Cada pasta representa uma categoria de problemas do Beecrowd (Iniciante, Ad-Hoc, Strings, SQL etc.).
