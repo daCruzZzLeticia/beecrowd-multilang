@@ -1,13 +1,13 @@
 /**
- * @problem: 1001 - Extremely Basic
  * Source: Beecrowd
+ * @problem: 1001 - Extremely Basic
+ * @subject: Sequential
  *
  * @author: Letícia Cruz
  * @date: 2025-04-21
- *
  */
 
-//Ler entradas
+//Lê entradas
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
 var lines = input.split("\n");
 
