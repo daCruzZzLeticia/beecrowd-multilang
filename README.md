@@ -6,6 +6,17 @@ This repository contains my solutions to Beecrowd problems using various program
 
 ## Problemas Resolvidos/Solved Problems
 
+**C**
+
+-   [1000 - Hello World!](iniciante-beginner/c/1000.c)
+-   [1001 - Extremely Basic](iniciante-beginner/c/1001.c)
+-   [1059 - Even Numbers](iniciante-beginner/c/1059.c)
+-   [2786 - School Floor](iniciante-beginner/c/2786.c)
+
+**Java**
+
+> The Java submissions are organized in a separate repository, available [here](https://github.com/daCruzZzLeticia/beecrowd-java)
+
 **Javascript**
 
 -   [1000 - Hello World!](iniciante-beginner/javascript/1000.js)
