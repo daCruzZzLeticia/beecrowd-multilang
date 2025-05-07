@@ -30,6 +30,7 @@ This repository contains my solutions to Beecrowd problems using various program
 -   [1001 - Extremely Basic](iniciante-beginner/python/1001.py)
 -   [1002 - Area of a Circle](iniciante-beginner/python/1002.py)
 -   [1003 - Simple Sum](iniciante-beginner/python/1003.py)
+-   [1004 - Simple Product](iniciante-beginner/python/1004.py)
 
 ## Estrutura/Structure
 
