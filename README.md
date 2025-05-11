@@ -10,6 +10,7 @@ This repository contains my solutions to Beecrowd problems using various program
 
 -   [1000 - Hello World!](iniciante-beginner/c/1000.c)
 -   [1001 - Extremely Basic](iniciante-beginner/c/1001.c)
+-   [1049 - Animal](iniciante-beginner/c/1049.c)
 -   [1059 - Even Numbers](iniciante-beginner/c/1059.c)
 -   [2786 - School Floor](iniciante-beginner/c/2786.c)
 
@@ -21,6 +22,7 @@ This repository contains my solutions to Beecrowd problems using various program
 
 -   [1000 - Hello World!](iniciante-beginner/javascript/1000.js)
 -   [1001 - Extremely Basic](iniciante-beginner/javascript/1001.js)
+-   [1049 - Animal](iniciante-beginner/javascript/1049.js)
 
 </br>
 
