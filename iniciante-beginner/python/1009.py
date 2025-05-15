@@ -1,7 +1,7 @@
 '''
  * Source: Beecrowd
  * @problem: 1009 - Salary with Bonus
- * @subject: Selection
+ * @subject: Sequential
  *
  * @author: Letícia Cruz
  * @date: 2025-05-14
