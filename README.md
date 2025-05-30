@@ -36,6 +36,7 @@ This repository contains my solutions to Beecrowd problems using various program
 -   [1005 - Average 1](iniciante-beginner/python/1005.py)
 -   [1009 - Salary with Bonus](iniciante-beginner/python/1009.py)
 -   [1049 - Animal](iniciante-beginner/python/1049.py)
+-   [1114 - Fixed Password](iniciante-beginner/python/1114.py)
 
 ## Estrutura/Structure
 
